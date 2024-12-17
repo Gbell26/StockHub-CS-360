@@ -1,1 +1,4 @@
 # StockHub-CS-360
+
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+StockHub is an inventory management application that allows for tracking the number of items in your inventory. It allows you to add new items and increment/decrement the number of items currently in stock. You may also delete items from your inventory as needed. The application opens to a log in screen where you can submit your username and password to log in or create a new account. After logging in for the first time you will be prompted to allow the application to send text messages. If granted the application will send a text notification when an inventory item quantity reaches zero. If denied permission the application will continue on to work as intended. After this screen the application opens to the inventory page where you can add items to your inventory, increase or decrease the count of an item or remove items.
